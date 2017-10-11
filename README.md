@@ -26,7 +26,7 @@ The following features are currently supported:
 Requirements
 ------------
 
-This library package requires PHP 5.4 or later and Plesk 12.0 or above.
+This library package requires PHP 7.0.24 or later and Plesk 17.0 or above.
 
 
 Usage
